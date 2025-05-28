@@ -1,0 +1,5 @@
+mysql/data/*
+www/*
+!www/index.php
+
+!.gitkeep
